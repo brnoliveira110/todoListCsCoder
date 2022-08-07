@@ -1,4 +1,4 @@
-export default interface ITarefa{
+export default interface ITask{
     durationInSeconds: number,
     description: string
 
